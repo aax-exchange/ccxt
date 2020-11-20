@@ -62,6 +62,7 @@ class Exchange {
     private static $base58_decoder = null;
 
     public static $exchanges = array(
+        'aax',
         'acx',
         'aofex',
         'bcex',

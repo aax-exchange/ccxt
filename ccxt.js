@@ -42,6 +42,7 @@ Exchange.ccxtVersion = version
 //-----------------------------------------------------------------------------
 
 const exchanges = {
+    'aax':                     require ('./js/aax.js'),
     'acx':                     require ('./js/acx.js'),
     'aofex':                   require ('./js/aofex.js'),
     'bcex':                    require ('./js/bcex.js'),
